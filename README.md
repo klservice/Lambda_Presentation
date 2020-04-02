@@ -1,1 +1,1 @@
-"# Lambda_Presentation" 
+# Lambda_Presentation
