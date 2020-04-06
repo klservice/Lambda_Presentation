@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d8fcf1c1-25f9-4b79-81a7-a010c36f7202" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/forPresentation/main/java/com/LambdaPresentation/ExampleFiles/MethodReferences/MethodReferenceNonStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/forPresentation/main/java/com/LambdaPresentation/ExampleFiles/MethodReferences/MethodReferenceNonStatic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/forPresentation/main/java/com/LambdaPresentation/WayFromAnonToLambda/AnonToLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/forPresentation/main/java/com/LambdaPresentation/WayFromAnonToLambda/AnonToLambda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation/ExampleFiles/FunctionalInterface/ExampleFunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation/ExampleFiles/FunctionalInterface/ExampleFunctionalInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation/ExampleFiles/FunctionalInterface/ExampleFunctionalInterfaceError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation/ExampleFiles/FunctionalInterface/ExampleFunctionalInterfaceError.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation/ExampleFiles/MethodReferences/MethodReferenceNonStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation/ExampleFiles/MethodReferences/MethodReferenceNonStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation/WayFromAnonToLambda/AnonToLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation/WayFromAnonToLambda/AnonToLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation/WayFromAnonToLambda/DisplayMessageImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation/WayFromAnonToLambda/DisplayMessageImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/AusgabeImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/AusgabeImplement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/AusgabeOOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/AusgabeOOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/Displaying.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/Displaying.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +31,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/MethodReference" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="example.anonToLambda.example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Klemens\Desktop\forPresentation\src\main\java\com\LambdaPresentation_II\MethodReference" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="example.ForUsingLambda.Comparator" />
@@ -156,12 +155,12 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="735" y="328" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1585832038781" />
-    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1586157251309">
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1586165270697">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1585831343094" />
     <state x="2685" y="209" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1585956632293" />
-    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser/-1920.12.1920.1050/1920.32.1920.1050/0.0.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586157251309" />
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser/-1920.12.1920.1050/1920.32.1920.1050/0.0.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586165270697" />
     <state x="662" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585833191935">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

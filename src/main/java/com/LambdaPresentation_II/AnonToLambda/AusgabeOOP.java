@@ -2,25 +2,22 @@ package main.java.com.LambdaPresentation_II.AnonToLambda;
 
 public class AusgabeOOP {
 
-    public void display(){
-        System.out.println("DisplayMethode Aufruf.");
+    public void displayOld(){
+        System.out.println("Call displayOld in AusgabeOOP.");
     }
 
-    /*
-    ______ void display(){
-        System.out.println("DisplayMethode Aufruf.");
+    public void display(Displaying displaying) {
+        displaying.perform();
     }
-    */
-
-
-    /*
-    public void display(Displaying displaying){
-        displaying.displayPerform();
-    }
-    */
 
     public static void main(String[] args) {
         AusgabeOOP ausgabeOOP = new AusgabeOOP();
-        ausgabeOOP.display();
+//        ausgabeOOP.displayOld();
+        AusgabeImplement ausgabeImplement = new AusgabeImplement();
+        ausgabeOOP.display(ausgabeImplement);
+
+
+
+
     }
 }
