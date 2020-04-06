@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8fcf1c1-25f9-4b79-81a7-a010c36f7202" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/Ausgabe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/AusgabeImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/AusgabeImplement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/AusgabeOOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/AusgabeOOP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/Displaying.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/Displaying.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/AusgabeImplement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LambdaPresentation_II/AnonToLambda/AusgabeOOP.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,25 +49,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.AusgabeOOP">
-    <configuration name="AusgabeOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.LambdaPresentation_II.AnonToLambda.AusgabeOOP" />
+    <configuration name="Ausgabe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.LambdaPresentation_II.AnonToLambda.Ausgabe" />
       <module name="forPresentation" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.java.com.LambdaPresentation_II.AnonToLambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExampleActionListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.LambdaPresentation.ExampleFiles.ForUsingLambda.ExampleActionListener" />
-      <module name="forPresentation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.com.LambdaPresentation.ExampleFiles.ForUsingLambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,6 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunnableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.LambdaPresentation_II.RunnableExample.RunnableExample" />
+      <module name="forPresentation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.LambdaPresentation_II.RunnableExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VerhaltenUebergeben" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.LambdaPresentation.WayFromAnonToLambda.VerhaltenUebergeben" />
       <module name="forPresentation" />
@@ -130,10 +130,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.AusgabeOOP" />
+        <item itemvalue="Application.RunnableExample" />
         <item itemvalue="Application.ExampleRunnable" />
         <item itemvalue="Application.VerhaltenUebergeben" />
         <item itemvalue="Application.MethodReferenceNonStatic" />
-        <item itemvalue="Application.ExampleActionListener" />
       </list>
     </recent_temporary>
   </component>
@@ -155,39 +155,43 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="735" y="328" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1585832038781" />
-    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1586165270697">
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1586180388712">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1585831343094" />
     <state x="2685" y="209" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1585956632293" />
-    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser/-1920.12.1920.1050/1920.32.1920.1050/0.0.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586165270697" />
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser/-1920.12.1920.1050/1920.32.1920.1050/0.0.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586180388712" />
     <state x="662" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585833191935">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="662" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1585833191935" />
-    <state width="1877" height="115" key="GridCell.Tab.0.bottom" timestamp="1586152072054">
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom" timestamp="1586181371829">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586115149731" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1585944342229" />
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/-1920.12.1920.1050/1920.32.1920.1050/0.0.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586181371829" />
     <state width="1877" height="115" key="GridCell.Tab.0.bottom/1920.32.1920.1050/0.0.1920.1050/-1920.12.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586152072054" />
-    <state width="1877" height="115" key="GridCell.Tab.0.center" timestamp="1586152072054">
+    <state width="1877" height="267" key="GridCell.Tab.0.center" timestamp="1586181371829">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.center/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586115149731" />
     <state width="1877" height="285" key="GridCell.Tab.0.center/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1585944342229" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center/-1920.12.1920.1050/1920.32.1920.1050/0.0.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586181371829" />
     <state width="1877" height="115" key="GridCell.Tab.0.center/1920.32.1920.1050/0.0.1920.1050/-1920.12.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586152072054" />
-    <state width="1877" height="115" key="GridCell.Tab.0.left" timestamp="1586152072054">
+    <state width="1877" height="267" key="GridCell.Tab.0.left" timestamp="1586181371829">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.left/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586115149731" />
     <state width="1877" height="285" key="GridCell.Tab.0.left/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1585944342229" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left/-1920.12.1920.1050/1920.32.1920.1050/0.0.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586181371829" />
     <state width="1877" height="115" key="GridCell.Tab.0.left/1920.32.1920.1050/0.0.1920.1050/-1920.12.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586152072054" />
-    <state width="1877" height="115" key="GridCell.Tab.0.right" timestamp="1586152072054">
+    <state width="1877" height="267" key="GridCell.Tab.0.right" timestamp="1586181371829">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.right/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586115149731" />
     <state width="1877" height="285" key="GridCell.Tab.0.right/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1585944342229" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right/-1920.12.1920.1050/1920.32.1920.1050/0.0.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586181371829" />
     <state width="1877" height="115" key="GridCell.Tab.0.right/1920.32.1920.1050/0.0.1920.1050/-1920.12.1920.1050/0.-1080.1920.1050@0.0.1920.1050" timestamp="1586152072054" />
     <state x="676" y="238" width="567" height="570" key="RefactorJ.ExtractClass" timestamp="1585816778678">
       <screen x="0" y="0" width="1920" height="1050" />
