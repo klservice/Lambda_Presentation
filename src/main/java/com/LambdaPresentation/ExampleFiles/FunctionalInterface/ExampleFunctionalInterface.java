@@ -9,3 +9,8 @@ public interface ExampleFunctionalInterface {
         return amount;
     }
 }
+
+
+
+
+

@@ -7,3 +7,7 @@ public interface ExampleFunctionalInterfaceError {
     void displayMessage();
     void calcCredit();
 }
+
+
+
+
